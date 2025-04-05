@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TC Ndoro
+- 👋 Hi, I’m @T_Ndoro
 - 👀 I’m interested in fullstack development.
 - 🌱 I’m currently learning Django 
 - 💞️ I’m looking to collaborate on Backend Web Development and AI.
